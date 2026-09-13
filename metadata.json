@@ -1,0 +1,6 @@
+{
+  "name": "DESIGN FRAME",
+  "description": "Premium wall frames, wall art, customized frames, and home & office décor in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
